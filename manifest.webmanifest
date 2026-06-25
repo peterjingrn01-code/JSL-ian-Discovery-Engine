@@ -1,0 +1,8 @@
+{
+  "name": "JSL-ian Discovery Engine",
+  "short_name": "JSL-ian DE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
